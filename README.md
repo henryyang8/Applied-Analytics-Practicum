@@ -1,1 +1,1 @@
-# Practicum
+# Applied Analytics Practicum
