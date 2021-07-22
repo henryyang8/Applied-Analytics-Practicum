@@ -1,1 +1,1 @@
-# Applied Analytics Practicum
+# GT_Applied Analytics Practicum
